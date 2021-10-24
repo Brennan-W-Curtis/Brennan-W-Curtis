@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello
+
+I'm Brennan, a Front-end Web Developer that recently graduated from [Juno College](https://junocollege.com/).
+
+You can learn more about me by visiting my [portfolio](https://www.brennan-w-curtis.com/)!
 
 <!--
 **Brennan-W-Curtis/Brennan-W-Curtis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
