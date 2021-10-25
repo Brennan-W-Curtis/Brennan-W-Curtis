@@ -1,6 +1,6 @@
 # Hello, I'm Brennan!
 
-## A Front-end Web Developer passionate about creating interactive applications and accessible experiences.
+## A Front-end Web Developer passionate about creating interactive applications and experiences.
 
 I relish the challenge of creating a complex application with experiences that are interactive, informative, and accessible. With each project I am constantly striving to learn and improve my skills with the latest web technologies.
 
