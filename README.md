@@ -6,7 +6,7 @@ I love challenging myself by creating applications with experiences that are inf
 
 - I'm a recent graduate and proud alumni of [Juno College](https://junocollege.com/).
 
-- Here's a video of me demonstrating a project I made during my enrollment, [Neuromancy](https://www.loom.com/share/1ef21907fc6145c6bea4fb34b591fd81). 
+- Here's a video of me providing a demo of a project I completed during my enrollment, [Neuromancy](https://www.loom.com/share/1ef21907fc6145c6bea4fb34b591fd81). 
 
 - If you're curious about my work please check out my [portfolio](https://www.brennan-w-curtis.com/)!
 
