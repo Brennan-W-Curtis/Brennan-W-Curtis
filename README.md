@@ -2,7 +2,7 @@
 
 ## A Front-End Web Developer passionate about creating interactive experiences.
 
-I love challenging myself by creating applications with experiences that are informative, responsive, and accessible. With each project I strive to learn and refine my skills with the latest web technologies.
+I love challenging myself by creating applications that are informative, responsive, and accessible. With each project I strive to learn and refine my skills with the latest web technologies.
 
 - I'm a recent graduate and proud alumni of [Juno College](https://junocollege.com/).
 
