@@ -12,6 +12,4 @@ I love challenging myself by creating applications that are informative, respons
 
 - Currently I'm working on refining my skills with JavaScript (ES6+), React, Firebase, and API integrations.
 
-- My resume can be found [here](https://www.brennan-w-curtis.com/assets/downloads/Brennan-W-Curtis-Resume.pdf).
-
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=brennan-w-curtis&show_icons=true&locale=en&theme=prussian" alt="Brennan's github stats" /> -->
