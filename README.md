@@ -10,6 +10,6 @@ I love challenging myself by creating applications that are informative, respons
 
 - If you're curious about my work please check out my [portfolio](https://www.brennan-w-curtis.com/)!
 
-- Currently I'm working on refining my skills with JavaScript (ES6+), React, Firebase, and API integrations.
+- Currently I'm working on refining my skills with JavaScript (ES6+), React, Firebase, and API integrations. Also, I've started learning more about Node JS, Jest, and Storyblock. 
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=brennan-w-curtis&show_icons=true&locale=en&theme=prussian" alt="Brennan's github stats" /> -->
